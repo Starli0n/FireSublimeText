@@ -9,3 +9,6 @@ Firefox Sublime Text Add-On
 user_pref("extensions.sublimetext.exe", "C:\\Tools\\SublimeText\\sublime_text.exe");
 ````
 - Or add it as a new string in `about:config`
+- Download directly `sublimetext.xpi`
+
+https://github.com/Starli0n/FireSublimeText/raw/master/sublimetext.xpi
